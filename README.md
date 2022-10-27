@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![qpalzmm22's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpalzmm22&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpalzmm22&layout=compact&theme=highcontrast)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpalzmm22)](https://solved.ac/qpazlmm22)
+
+
+
 <!--
 **qpalzmm22/qpalzmm22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
