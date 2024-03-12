@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![qpalzmm22's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpalzmm22&show_icons=true&theme=highcontrast)
+<!--![qpalzmm22's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpalzmm22&show_icons=true&theme=highcontrast) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpalzmm22&layout=compact&theme=highcontrast)
 
